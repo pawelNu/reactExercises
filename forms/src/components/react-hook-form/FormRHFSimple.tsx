@@ -4,7 +4,7 @@ interface FormData {
     userName: string;
 }
 
-export default function FormSimpleRHF() {
+export default function FormRFHSimple() {
     const {
         register,
         handleSubmit,

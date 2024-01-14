@@ -12,7 +12,7 @@ interface FormData {
     customCheck: string;
 }
 
-export default function FormAdvancedRHF() {
+export default function FormRHFAdvanced() {
     const {
         register,
         setValue,
