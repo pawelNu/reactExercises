@@ -21,7 +21,7 @@ function FormFormikSimple() {
             }}
             onSubmit={(
                 values: FormValues,
-                actions: FormikHelpers<FormValues>
+                actions: FormikHelpers<FormValues>,
             ) => {
                 alert(JSON.stringify(values));
                 actions.setSubmitting(false);

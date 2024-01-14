@@ -2,19 +2,19 @@ https://frontcave.pl/biblioteki-do-formularzy-1-sprawdz-porownanie-3-najpopularn
 
 # Biblioteki do formularzy w React #1 – sprawdź wprowadzenie do 3 najpopularniejszych bibliotek
 
-- [Biblioteki do formularzy w React #1 – sprawdź wprowadzenie do 3 najpopularniejszych bibliotek](#biblioteki-do-formularzy-w-react-1--sprawdź-wprowadzenie-do-3-najpopularniejszych-bibliotek)
-  - [Wprowadzenie](#wprowadzenie)
-  - [react-hook-form](#react-hook-form)
-    - [Prosty przykład](#prosty-przykład)
-    - [Przykład zaawansowany](#przykład-zaawansowany)
-  - [formik](#formik)
-    - [Prosty przykład](#prosty-przykład-1)
-    - [Walidacja za pomocą Yup](#walidacja-za-pomocą-yup)
-    - [Przykład zaawansowany](#przykład-zaawansowany-1)
-  - [react-final-form](#react-final-form)
-    - [Prosty przykład](#prosty-przykład-2)
-    - [Przykład zaawansowany](#przykład-zaawansowany-2)
-  - [Podsumowanie](#podsumowanie)
+-   [Biblioteki do formularzy w React #1 – sprawdź wprowadzenie do 3 najpopularniejszych bibliotek](#biblioteki-do-formularzy-w-react-1--sprawdź-wprowadzenie-do-3-najpopularniejszych-bibliotek)
+    -   [Wprowadzenie](#wprowadzenie)
+    -   [react-hook-form](#react-hook-form)
+        -   [Prosty przykład](#prosty-przykład)
+        -   [Przykład zaawansowany](#przykład-zaawansowany)
+    -   [formik](#formik)
+        -   [Prosty przykład](#prosty-przykład-1)
+        -   [Walidacja za pomocą Yup](#walidacja-za-pomocą-yup)
+        -   [Przykład zaawansowany](#przykład-zaawansowany-1)
+    -   [react-final-form](#react-final-form)
+        -   [Prosty przykład](#prosty-przykład-2)
+        -   [Przykład zaawansowany](#przykład-zaawansowany-2)
+    -   [Podsumowanie](#podsumowanie)
 
 ## Wprowadzenie
 

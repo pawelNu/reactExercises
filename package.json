@@ -1,0 +1,9 @@
+{
+    "scripts": {
+        "format": "prettier --write ."
+    },
+    "devDependencies": {
+        "husky": "^8.0.3",
+        "prettier": "^3.2.2"
+    }
+}
